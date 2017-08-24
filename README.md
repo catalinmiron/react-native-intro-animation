@@ -1,6 +1,6 @@
 ### React Native Intro Animation
 
-__[Menu Interaction](https://dribbble.com/shots/2764661-Menu-Interaction) by [Alex Torres](https://dribbble.com/shots/2764661-Menu-Interaction)__
+__[Menu Interaction](https://dribbble.com/shots/2764661-Menu-Interaction) by [Alex Torres](https://dribbble.com/alexwtorres)__
 
 Exponent: https://exp.host/@catalinmiron/react-native-intro-animation
 
